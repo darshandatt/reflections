@@ -7,3 +7,7 @@ Helps group changes we want to commit into groups. Also segregate changes we wan
 
 How can you use the staging area to make sure you have one commit per logical change?
 Keep adding all files belonging to the logical change and commit them all at once
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Will help work on multiple feautures simultaneously
+Will help parallelise things
