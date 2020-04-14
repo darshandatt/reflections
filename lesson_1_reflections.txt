@@ -1,0 +1,3 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+Diff helped one review all the changes and helped in reviewing the changes, thereby
+heping in catching the mistake
