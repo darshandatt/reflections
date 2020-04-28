@@ -8,3 +8,7 @@ Describe the differences between forks, clones, and branches. When would you use
 Fork when I need to create a copy on someone else's repo for working further
 Clone: clon from one git repo to another repo
 branch: create a independently workable environment inside of a repo
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+Merging with the remote work becomes that much more possible and easier
